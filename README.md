@@ -3,7 +3,7 @@
 ## 🚀 About Me
 I am a Highly motivated Computer Science graduate with a strong foundation in Data Science and Artificial Intelligence. I have growing hands-on exposure to enterprise AI platforms and MLOps workflows.
 
-My passion lies in bridging the gap between complex AI models and practical applications, whether it's through Computer Vision, NLP, or interactive Web Development.
+
 
 🛠️ Tech Stack & Skills
 Programming & Development
